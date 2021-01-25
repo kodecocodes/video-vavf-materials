@@ -1,6 +1,6 @@
-# Beginning Video with AVFoundation: Materials
+# Video with AVFoundation: Materials
 
-This repo contains all the downloadable materials and projects associated with the **[Beginning Video with AVFoundation](https://www.raywenderlich.com/4033-beginning-video-with-avfoundation)** from [raywenderlich.com](https://www.raywenderlich.com).
+This repo contains all the downloadable materials and projects associated with the **[Video with AVFoundation](https://www.raywenderlich.com/4033-beginning-video-with-avfoundation)** from [raywenderlich.com](https://www.raywenderlich.com).
 
 Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
 
